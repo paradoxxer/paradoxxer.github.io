@@ -1,10 +1,7 @@
 ﻿---
-title : "whoami"
-excerpt: "Hi"
-sitemap : true
-permalink: /about.html/
-author: true
-
+layout: page
+title: whoami
+subtitle: test
 ---
 
 ![image-center]({{ paradoxxer.github.io}}{{ site.baseurl }}/assets/img/about.jpeg){: .align-center}
