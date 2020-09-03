@@ -9,7 +9,7 @@ author: Mehmet Berkay Yüksel
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "whoami"
   Resources:
   CV:       
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
