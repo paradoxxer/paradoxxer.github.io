@@ -10,8 +10,8 @@ author: Mehmet Berkay Yüksel
 
 navbar-links:
   whoami: "whoami"
-  Resources:
-  CV:       
+  Resources: "https://github.com/paradoxxer/learn-to-hack"
+  CV: "/assets/img/cv.pdf"       
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
    #Author's home: "https://deanattali.com"
