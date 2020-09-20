@@ -11,7 +11,7 @@ author: Mehmet Berkay Yüksel
 navbar-links:
   whoami: "whoami"
   Resources: "https://github.com/paradoxxer/Cyber-Security-Resources"
-  CV: "/assets/cv.pdf"       
+  CV: "/assets/files/cv.pdf"       
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
    # Author's home: "https://deanattali.com"
