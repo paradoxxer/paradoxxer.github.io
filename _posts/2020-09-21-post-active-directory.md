@@ -12,7 +12,7 @@ Bunun haricinde bu alana sızma testi nasıl yapılır ve ne gibi teknikler kull
 
 ### Tanım
 
-Active directory, ağ üzerinde erişilmek veya paylaşılmak istenen veriyi hiyerarşik bir dizin yapısı ile yetkili kullanıcılara sunan bir dizin sistemidir. Ağ üzerinden bu sisteme dahil cihazlar (yazıcılar,kullanıcı bilgisayarları, veritabanlar, vb.) ağ üzerinde başka bir noktada erişilmek istenen kaynağa active directory sistemine dahil protokoller aracılığı ile yetkilendirilip kolay bir biçimde erişebilirler. Active directroy ortamı sistem yöneticilerinin işini de bir hayli kolaylaştırmaktadır. Bu ortama dahil cihazlar, tek bir birimden (Domain Controller) güncellenebilir, yapılandırılabilir ve sürdürülebilirliği sağlanabilir. 
+Active directory, ağ üzerinde erişilmek veya paylaşılmak istenen veriyi hiyerarşik bir dizin yapısı ile yetkili kullanıcılara sunan bir dizin sistemidir. Ağ üzerinden bu sisteme dahil cihazlar (yazıcılar,kullanıcı bilgisayarları, veritabanlar, vb.) ağ üzerinde başka bir noktada erişilmek istenen kaynağa active directory sistemine dahil protokoller aracılığı ile yetkilendirilip kolay bir biçimde erişebilirler. Active directory ortamı sistem yöneticilerinin işini de bir hayli kolaylaştırmaktadır. Bu ortama dahil cihazlar, tek bir birimden (Domain Controller) güncellenebilir, yapılandırılabilir ve sürdürülebilirliği sağlanabilir. 
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/img/active/01.jpg)
 
