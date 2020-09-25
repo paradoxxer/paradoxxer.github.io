@@ -10,8 +10,7 @@ author: Mehmet Berkay Yüksel
 
 navbar-links:
   whoami: "whoami"
-  Resources: "https://github.com/paradoxxer/Cyber-Security-Resources"
-  CV[TR]: "/assets/files/cv.pdf"
+  #  Resources: "https://github.com/paradoxxer/Cyber-Security-Resources"
   Pentest/CTF Cheat Sheet: "https://yukselberkay.me/2020-09-21-post-pentest-cheat-sheet/"  
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
